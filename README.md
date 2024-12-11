@@ -57,16 +57,6 @@ python face_recognition.py
 python face_recognition.py --image caminho/para/imagem.jpg
 ```
 
-## Estrutura do projeto
-
-```plaintext
-reconhecimento-facial/
-|├── train_model.py       # Script para treinamento do modelo
-|├── face_recognition.py # Script principal para reconhecimento
-|├── dataset/            # Diretório de imagens para treinamento
-|├── models/             # Diretório para salvar o modelo treinado
-|├── README.md          # Documentação do projeto
-```
 
 ## Exemplos de uso
 
