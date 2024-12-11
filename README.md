@@ -104,13 +104,10 @@ git checkout -b minha-nova-funcionalidade
 
 3. Envie um pull request para análise.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por [Anderson Antonio Dolce](https://github.com/Anderson377).
 
 ---
 
