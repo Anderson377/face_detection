@@ -1,5 +1,3 @@
-# face_detection
-reconhecimento facial desenvolvido em python utilizando a biblioteca Opencv
 # Reconhecimento Facial com Python e OpenCV
 
 Este projeto implementa um sistema de reconhecimento facial utilizando a linguagem de programação Python e a biblioteca OpenCV. Ele permite a detecção e reconhecimento de rostos em imagens ou em tempo real via câmera.
